@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MoneyMatrix</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">MoneyMatrix</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="add_expense_tab">Add Expense</string>
+    <string name="monhly_expense_tab">Monthly Expense</string>
+    <string name="savings_debts_tab">Savings/Debts</string>
+    <string name="income_tab">Income</string>
+    <string name="aircraft">Aircraft</string>
+    <string name="apartment">Apartment</string>
+    <string name="coffee">Coffee</string>
+    <string name="car">Car</string>
+    <string name="clothes">Clothes</string>
+    <string name="enter_income">Enter Income</string>
+    <string name="total_target_expense_of_month">Total Target Expense of Month</string>
+    <string name="rent">Monthly Rent</string>
+    <string name="electricity">Electricity</string>
+</resources>
